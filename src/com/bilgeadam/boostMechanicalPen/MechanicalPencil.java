@@ -15,6 +15,8 @@ public class MechanicalPencil extends PencilTypes{
 	
 	private double sizeOfLead;
 
+	
+
 	//parametreli constructer
 
 	public MechanicalPencil(String model, double price, Color color, double sizeOfLead) {

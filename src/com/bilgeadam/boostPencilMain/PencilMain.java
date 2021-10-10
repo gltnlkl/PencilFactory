@@ -55,7 +55,6 @@ public class PencilMain {
 			double price=input.nextDouble();
 
 			
-			
 			FountainPen fountainPenOut = new FountainPen("Dolma Kalem", price, Color.BLACK, Material.GOLDEN);  
 			System.out.println(fountainPenOut);
 			break;
